@@ -92,7 +92,7 @@ Cited from blog.logrocket.com : https://blog.logrocket.com/product-management/ve
 Software Maintenance:
 
 A software project manager is essential for successful software development, handling project proposals, defining scope, planning,
- budgeting, progress tracking, risk management, team collaboration, and negotiations. 
+budgeting, progress tracking, risk management, team collaboration, and negotiations. 
 They must balance evolving requirements, manage limited resources, coordinate diverse teams, mitigate risks, and adapt to change. 
 Their responsibilities ensure efficient collaboration, successful project delivery, and maintaining software quality.
 
